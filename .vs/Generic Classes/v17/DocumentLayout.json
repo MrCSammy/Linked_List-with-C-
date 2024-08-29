@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Smart Samuel\\source\\repos\\Generic Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF1F3DB-538F-4B98-ABED-87BE9F7C953A}|..\\Generic class2\\Stacked List.csproj|c:\\users\\smart samuel\\source\\repos\\generic class2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6C0004-E3C5-4EB3-8D3B-FECC43E68FD0}|..\\Generic Class\\Queue List.csproj|c:\\users\\smart samuel\\source\\repos\\generic class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E784FCA-5DAE-429E-B3A9-91FCE8EB5890}|Linked List.csproj|c:\\users\\smart samuel\\source\\repos\\generic classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E784FCA-5DAE-429E-B3A9-91FCE8EB5890}|Linked List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\Generic Class\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Generic Class\\Program.cs",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\Generic Class\\Program.cs",
+              "RelativeToolTip": "..\\Generic Class\\Program.cs",
+              "ViewState": "AQIAABcAAACAMzMzMzMXwBsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:44:41.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\Generic class2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Generic class2\\Program.cs",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\Generic class2\\Program.cs",
+              "RelativeToolTip": "..\\Generic class2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:52:10.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Smart Samuel\\source\\repos\\Generic Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Smart Samuel\\source\\repos\\Generic Classes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:09:19.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
